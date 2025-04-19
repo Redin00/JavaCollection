@@ -10,8 +10,6 @@ public class Main {
         // Below is the step-by-step process for inserting elements.
 
         Scanner input = new Scanner(System.in);
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
         System.out.println(ColorText.GREEN + "Welcome to the awesome Binary Search Trees project!!" + ColorText.RESET);
         System.out.print("Lets start with the creation of the tree..");
 
