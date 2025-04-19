@@ -4,6 +4,6 @@ This repository is used as a collection for project I wrote in java, mainly for 
 
 If you want to view them, here's a list of them.
 
-- [ForecastSimulator]() - Like the name says, a generator of forecasts. It can be random generated, or use APIs from OpenWeatherMap.
-- [Students List]() - Manual implementation of lists in Java, using Students as elements stored.
-- [BinarySearchTree]() - Implementation of Binary Search Trees (BST) in Java.
+- [ForecastSimulator](ForecastSimulator/src/main/java/org/redinn) - Like the name says, a generator of forecasts. It can be random generated, or use APIs from OpenWeatherMap.
+- [Students List](ListsImplementation/src/main/java/org/redinn) - Manual implementation of lists in Java, using Students as elements stored.
+- [BinarySearchTree](BinarySearchTree/src/main/java/org/redinn) - Implementation of Binary Search Trees (BST) in Java.
