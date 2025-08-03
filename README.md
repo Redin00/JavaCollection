@@ -1,6 +1,6 @@
 # 📚 Java projects collection
 
-This repository is used as a collection for project I wrote in java, mainly for learning purposes. All this projects were written using **_IntelliJ_** and Maven as project manager. 
+This repository is used as a collection for projects I wrote in java, mainly for learning purposes. All this projects were written using **_IntelliJ_** and Maven as project manager. 
 
 If you want to view them, here's a list of them.
 
